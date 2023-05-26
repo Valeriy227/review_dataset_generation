@@ -7,4 +7,3 @@
 * Для генерации датасета используйте generate_reviews.py
 
 Для скачивания массива данных для обучения использовался скрипт get_wb_reviews.py. 
-Скаченные данные: https://www.kaggle.com/datasets/andreykamenskiy/wildberries-comments-promts
